@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: NONE
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
